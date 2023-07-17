@@ -1,3 +1,3 @@
-module github.com/akhil/google-trends
+module github.com/ITbhaskaran/google-trends
 
 go 1.16
